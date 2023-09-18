@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viki</h1>
 <h3 align="center">A passionate IT enthusiast from Ottawa, ON</h3>
 
-img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 - 📫 How to reach me **v.mitiakova@gmail.com**
 
